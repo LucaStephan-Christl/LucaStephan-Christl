@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Luca, a passionate student at UZH (University of Zurich) with a keen interest in technology and software development since i was a child. With experience in Python, HTML/CSS, Java, JavaScript/TypeScript (specifically with React.js), and C, I'm enthusiastic about learning more and getting experience in the field to create impactful solutions.
+👋 Hi, I'm Luca, a passionate student at UZH (University of Zurich) and software developer at [Trihow AG](https://www.trihow.com/) with a keen interest in technology and software development since i was a child. With experience in Python, HTML/CSS, Java, JavaScript/TypeScript (specifically with React.js), Electron.js, Next.js and C, I'm enthusiastic about learning more and getting experience in the field to create impactful solutions.
 
 I thrive in collaborative environments where innovation and creativity flourish, and I'm eager to contribute my skills to dynamic teams working on exciting projects. I like getting to know new people so if you're interested in connecting, discussing potential opportunities, or simply sharing insights, feel free to reach out!<br>
 <br>
